@@ -61,4 +61,4 @@ STEP_SIZE: int = 6
 
 GAMMA: int = 0.5
 
-EPOCH: int = 1
+EPOCH: int = 100
